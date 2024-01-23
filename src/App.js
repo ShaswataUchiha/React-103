@@ -5,7 +5,7 @@ import Tag from "./components/Tag";
 const App = () => {
   return (
     <div
-      className="w-full h-screen flex flex-col background relative
+      className="w-full h-full flex flex-col background relative
     items-center
     "
     >
